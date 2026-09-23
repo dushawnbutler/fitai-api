@@ -8,5 +8,9 @@
   },
   "engines": {
     "node": ">=20"
+  },
+  "dependencies": {
+    "@aws-sdk/client-secrets-manager": "^3.1138.0",
+    "pg": "^8.23.0"
   }
 }
