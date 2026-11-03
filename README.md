@@ -88,11 +88,9 @@ Save screenshots in `docs/screenshots/` and replace the placeholders below. Capt
 
 **HTTPS health check — insert screenshot here:** `docs/screenshots/https-health.png`
 
+<img width="2280" height="434" alt="image" src="https://github.com/user-attachments/assets/7afc32e5-b7c1-4775-9a0f-28bf686665ac" />
+
 ![Successful HTTPS health response](docs/screenshots/https-health.png)
-
-**Clean Terraform plan — insert screenshot here:** `docs/screenshots/terraform-plan.png`
-
-![Terraform plan showing no changes](docs/screenshots/terraform-plan.png)
 
 Take the Terraform screenshot only after applying and running `terraform plan` again; it should show **No changes**. The health screenshot should show the HTTPS API Gateway URL and HTTP 200 response.
 
